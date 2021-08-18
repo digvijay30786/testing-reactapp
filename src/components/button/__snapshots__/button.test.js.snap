@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`button.jsx testing Take a snap Shot 1`] = `
+<div
+  data-testid="btn"
+  onClick={[Function]}
+>
+  Button
+</div>
+`;
